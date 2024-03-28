@@ -1,5 +1,5 @@
 # API Test Automation Using Karate Framework
-This project consists of an automation framework written with Karate framework,Java and Cucumber to automate thes [API](https://dummy.restapiexample.com/).
+This project consists of an automation framework written with Karate framework,Java and Cucumber to automate this [API](https://dummy.restapiexample.com/).
 
 # Prerequisite
 * Ensure Java (11 or higher) is installed [Install Java](https://www.oracle.com/ng/java/technologies/downloads/).
